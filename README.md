@@ -142,8 +142,10 @@ npm run build --workspace=client
 $env:NODE_ENV = 'production'
 npm run start:server
 ```
-DEMO
+
 <img width="800" height="430" alt="TransitOpsSmartTransportOperationsPlatformand5morepages-Personal-Microsoft_Edge2026-07-1216-16-59-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/12c0f40d-8afb-47bd-a2c2-33d65b5b9d07" />
 
+
+DEMO
 
 Production requires both `JWT_SECRET` and `MONGODB_URI`. Configure `CLIENT_ORIGINS` and `COOKIE_SECURE=true` to match the deployment's HTTPS domain.

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+.vite-temp/
+.env
+.env.*
+!.env.example
+coverage/
+logs/
+*.log
+.agents/
+.git/
